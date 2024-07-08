@@ -48,3 +48,8 @@ npm run build
 ```
 
 This will create an optimized production build in the dist directory.
+
+## Contributors
+
+- [Hadas Katz](https://github.com/hadas354)
+- [Shevi Doani](https://github.com/shevidoani)
